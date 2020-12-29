@@ -1,0 +1,29 @@
+{
+    "name": "DCX",
+    "logoURI": "https://firebasestorage.googleapis.com/v0/b/decex-afd96.appspot.com/o/Logo.jpg?alt=media&token=80eb58f2-7d72-4c27-8be0-a3e549f64c2d",
+    "keywords": [
+        "defi",
+        "DEFI",
+        "yield",
+        "DCX",
+        "NFT gaming",
+        "NFT swap",
+        "NFT vault"
+      ],
+      "timestamp": "2020-12-29T12:37:57.000+00:00",
+      "tokens": [
+        {
+        "chainId": 1,
+        "address": "0x2A3a8F2d0487fbf654cd530B5F0A1d9467935D6a",
+        "name": "DeCEX",
+        "symbol": "DCX",
+        "decimals": 18,
+        "logoURI": "https://firebasestorage.googleapis.com/v0/b/decex-afd96.appspot.com/o/Logo.jpg?alt=media&token=80eb58f2-7d72-4c27-8be0-a3e549f64c2d"
+        }
+      ],
+      "version": {
+        "major": 0,
+        "minor": 0,
+        "patch": 0
+      }
+  }
